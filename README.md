@@ -24,3 +24,5 @@ Here are some ideas to get you started:
 
 📫 Connect with me:  
 [LinkedIn](https://www.linkedin.com/in/vatsal-gokani-7759a0247/)
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
