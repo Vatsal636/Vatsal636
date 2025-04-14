@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 # 👋 Hi, I'm [Your Name]
 - 🎓 CSE Student | 2nd Year
 - 💻 Passionate about Web Dev, Software Projects & CS Core
-- 🚀 Currently building: [Your Project Name]
+- 🚀 Currently building: [Urban Aid]
 - 🌱 Learning: DSA, System Design, AI Basics
 - ✨ Fun Fact: I enjoy contributing to open source and hackathons!
 
