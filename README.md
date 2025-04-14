@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 - 🎓 CSE Student | 2nd Year
 - 💻 Passionate about Web Dev, Software Projects & CS Core
 - 🚀 Currently building: [Urban Aid]
-- 🌱 Learning: DSA, System Design, AI Basics
+- 🌱 Learning: MERN Stack, AI Basics
 - ✨ Fun Fact: I enjoy contributing to open source and hackathons!
 
 📫 Connect with me:  
