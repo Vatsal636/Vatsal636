@@ -1,6 +1,5 @@
-## Hi there 👋
+<!-- ## Hi there 👋
 
-<!--
 **Vatsal636/Vatsal636** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -14,3 +13,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+# 👋 Hi, I'm [Your Name]
+- 🎓 CSE Student | 2nd Year
+- 💻 Passionate about Web Dev, Software Projects & CS Core
+- 🚀 Currently building: [Your Project Name]
+- 🌱 Learning: DSA, System Design, AI Basics
+- ✨ Fun Fact: I enjoy contributing to open source and hackathons!
+
+📫 Connect with me:  
+[LinkedIn](https://linkedin.com/in/yourprofile) | [Portfolio](https://yourwebsite.com) |
