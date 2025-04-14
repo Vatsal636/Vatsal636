@@ -15,10 +15,10 @@ Here are some ideas to get you started:
 -->
 
 
-# 👋 Hi, I'm [Your Name]
+# 👋 Hi, I'm Vatsal Gokani
 - 🎓 CSE Student | 2nd Year
 - 💻 Passionate about Web Dev, Software Projects & CS Core
-- 🚀 Currently building: [Urban Aid]
+- 🚀 Currently building: Urban Aid
 - 🌱 Learning: MERN Stack, AI Basics
 - ✨ Fun Fact: I enjoy contributing to open source and hackathons!
 
