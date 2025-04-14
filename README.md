@@ -23,4 +23,4 @@ Here are some ideas to get you started:
 - ✨ Fun Fact: I enjoy contributing to open source and hackathons!
 
 📫 Connect with me:  
-[LinkedIn](https://www.linkedin.com/in/vatsal-gokani-7759a0247/) | [Portfolio]() |
+[LinkedIn](https://www.linkedin.com/in/vatsal-gokani-7759a0247/)
