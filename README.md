@@ -17,8 +17,7 @@ Here are some ideas to get you started:
 
 # 👋 Hi, I'm Vatsal Gokani
 - 🎓 CSE Student | 3rd Year
-- 💻 Passionate about Web Dev, Software Projects & CS Core
-<!-- - 🚀 Currently building: Urban Aid -->
+- 💻 Passionate about Web Dev, Software Projects & CS Core<!-- - 🚀 Currently building: Urban Aid -->
 - 🌱 Learning: MERN Stack, AI Basics
 - ✨ Fun Fact: I enjoy contributing to open source and hackathons!
 
