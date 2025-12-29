@@ -49,21 +49,21 @@ Full-stack service booking platform inspired by Urban Company
 - Role-based access (Admin/User)  
 - Service management & bookings  
 - Clean UI with scalable backend  
-🔗 **Repo:** _(add link)_
+🔗 **Repo:** _(https://github.com/Vatsal636/UC-clone)_
 
 ### 📊 Personal Finance Tracker  
 Dashboard to track income, expenses & spending trends  
 - Data visualization  
 - Category-wise analysis  
 - Practical use-case  
-🔗 **Repo:** _(add link)_
+🔗 **Repo:** _(https://github.com/Vatsal636/finance-tracker)_
 
 ### 🧾 Textile Business Management System  
 CMS for sales, inventory & analytics  
 - Reports & monthly trends  
 - Party-wise sales tracking  
 - Business-focused architecture  
-🔗 **Repo:** _(add link)_
+🔗 **Repo:** (https://github.com/Vatsal636/Textile-Business-Management-System)
 
 ---
 
