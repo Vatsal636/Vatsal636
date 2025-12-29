@@ -63,7 +63,7 @@ CMS for sales, inventory & analytics
 - Reports & monthly trends  
 - Party-wise sales tracking  
 - Business-focused architecture  
-🔗 **Repo:** (https://github.com/Vatsal636/Textile-Business-Management-System)
+🔗 **Repo:** _(https://github.com/Vatsal636/Textile-Business-Management-System)_
 
 ---
 
