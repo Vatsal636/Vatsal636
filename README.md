@@ -42,7 +42,6 @@
 ---
 
 ## 📌 Featured Projects
-> (You MUST add links here — this section matters most)
 
 ### 🏙️ Urban Services Platform  
 Full-stack service booking platform inspired by Urban Company  
