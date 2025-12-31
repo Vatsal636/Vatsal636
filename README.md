@@ -66,7 +66,7 @@ CMS for sales, inventory & analytics
 
 ---
 
-## 📈 GitHub Stats (Minimal & Clean)
+## 📈 GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Vatsal636&show_icons=true&theme=dark&hide_border=true)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Vatsal636&layout=compact&theme=dark&hide_border=true)
 
