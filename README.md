@@ -23,7 +23,7 @@
 ```yaml
 name: Vatsal Gokani
 role: Full-Stack Developer
-year: 3rd Year CS Engineering
+year: Final Year CS Engineering
 focus:
   - Web Applications & Backend Systems
   - REST APIs & Authentication
