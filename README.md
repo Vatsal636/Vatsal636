@@ -78,40 +78,40 @@ philosophy: "Strong fundamentals + real projects beat buzzwords every time."
 <tr>
 <td width="50%">
 
-### 🏙️ Urban Services Platform
-> Full-stack service booking platform inspired by Urban Company
+### 🌊 DayFlow
+> Productivity and daily workflow management platform
 
-- 🔐 Role-based access (Admin / User)
-- 📋 Service management & bookings
-- 🎨 Clean UI with scalable backend
+- 📅 Task and schedule organization
+- ⚡ Smooth user experience
+- 📊 Practical dashboard-focused design
 
-[![Repo](https://img.shields.io/badge/View%20Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Vatsal636/UC-clone)
+[![Repo](https://img.shields.io/badge/View%20Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Vatsal636/DayFlow---HRMS)
 
 </td>
 <td width="50%">
 
-### 📊 Personal Finance Tracker
-> Dashboard to track income, expenses & spending trends
+### 🏟️ SmartVenue
+> Smart venue booking and management system
 
-- 📈 Data visualization
-- 🗂️ Category-wise analysis
-- 💡 Practical real-world use-case
+- 🏢 Venue listings and booking flow
+- 🔐 User-focused access and management
+- 📋 Clean service-management architecture
 
-[![Repo](https://img.shields.io/badge/View%20Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Vatsal636/finance-tracker)
+[![Repo](https://img.shields.io/badge/View%20Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Vatsal636/SmartVenue)
 
 </td>
 </tr>
 <tr>
 <td width="50%" colspan="2" align="center">
 
-### 🧾 Textile Business Management System
-> CMS for sales, inventory & analytics
+### 🗳️ VoteWise AI
+> AI-powered voting assistance and civic awareness platform
 
-- 📊 Reports & monthly trends
-- 🤝 Party-wise sales tracking
-- 🏢 Business-focused architecture
+- 🤖 AI-based guidance and insights
+- 🗳️ Voter-focused information flow
+- 📊 Clean, practical decision-support interface
 
-[![Repo](https://img.shields.io/badge/View%20Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Vatsal636/Textile-Business-Management-System)
+[![Repo](https://img.shields.io/badge/View%20Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Vatsal636/VoteWise)
 
 </td>
 </tr>
